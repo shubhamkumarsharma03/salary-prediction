@@ -1,0 +1,151 @@
+experience,education,location,company_size,industry,job_role,remote,salary_in_inr
+38,B.Tech,Hyderabad,Mid-size,Manufacturing,Data Scientist,No,2376218
+28,PhD,Bangalore,Mid-size,IT,Data Scientist,No,2463230
+14,B.Tech,Delhi,Mid-size,Finance,Software Engineer,No,1324055
+7,M.Tech,Mumbai,Mid-size,Finance,Data Scientist,No,1287445
+20,B.Tech,Hyderabad,Mid-size,Consulting,Consultant,No,1562552
+38,B.Tech,Kolkata,MNC,Finance,Manager,No,2949908
+18,B.Tech,Bangalore,Mid-size,Healthcare,Software Engineer,No,1422258
+22,B.Tech,Mumbai,MNC,Manufacturing,Data Scientist,No,1839986
+10,M.Tech,Delhi,MNC,Manufacturing,Software Engineer,No,1555232
+10,M.Tech,Mumbai,Startup,IT,Software Engineer,No,1185595
+23,M.Tech,Bangalore,Startup,Consulting,Manager,No,1751358
+35,B.Tech,Chennai,Startup,IT,Consultant,No,2214929
+39,B.Tech,Chennai,Startup,Finance,Software Engineer,No,2473506
+23,B.Tech,Mumbai,Startup,IT,Data Scientist,Yes,1534911
+2,B.Tech,Pune,Mid-size,Healthcare,Analyst,No,637127
+21,M.Tech,Kolkata,Startup,Manufacturing,Software Engineer,No,1712893
+1,B.Tech,Kolkata,Mid-size,Finance,Software Engineer,No,791607
+23,B.Tech,Mumbai,MNC,IT,Manager,No,2063453
+29,B.Tech,Hyderabad,Startup,Consulting,Consultant,No,1834458
+37,B.Tech,Hyderabad,MNC,Healthcare,Analyst,Yes,2562175
+1,M.Tech,Kolkata,Startup,Healthcare,Data Scientist,No,719235
+20,MBA,Kolkata,Startup,IT,Analyst,No,1754771
+32,B.Tech,Chennai,Mid-size,Manufacturing,Data Scientist,No,2127157
+11,PhD,Pune,Mid-size,IT,Consultant,Yes,1621300
+21,B.Tech,Bangalore,MNC,Finance,Data Scientist,No,1986925
+24,PhD,Hyderabad,MNC,IT,Manager,No,2566358
+26,B.Tech,Kolkata,MNC,Healthcare,Manager,No,2198399
+27,B.Tech,Chennai,Startup,IT,Manager,No,1797057
+15,B.Tech,Delhi,Startup,Manufacturing,Manager,No,1056150
+14,M.Tech,Chennai,MNC,Consulting,Analyst,Yes,1554425
+2,M.Tech,Hyderabad,MNC,Education,Consultant,No,1016032
+36,M.Tech,Hyderabad,MNC,IT,Data Scientist,Yes,2752198
+6,B.Tech,Chennai,Mid-size,Manufacturing,Data Scientist,No,891572
+20,M.Tech,Bangalore,Mid-size,Manufacturing,Manager,Yes,1734466
+8,M.Tech,Mumbai,MNC,Consulting,Manager,No,1451151
+38,B.Tech,Hyderabad,Mid-size,Healthcare,Software Engineer,No,2517292
+17,B.Tech,Chennai,MNC,Manufacturing,Consultant,No,1722946
+3,B.Tech,Kolkata,MNC,Manufacturing,Analyst,No,994931
+24,MBA,Chennai,Mid-size,Manufacturing,Data Scientist,No,2081532
+13,M.Tech,Pune,MNC,Manufacturing,Software Engineer,Yes,1662491
+8,PhD,Mumbai,MNC,Finance,Software Engineer,No,1868865
+25,B.Tech,Delhi,Startup,Finance,Data Scientist,Yes,1789777
+1,MBA,Bangalore,MNC,Healthcare,Analyst,No,1273952
+19,MBA,Delhi,Mid-size,IT,Software Engineer,No,1773236
+27,B.Tech,Mumbai,MNC,Manufacturing,Software Engineer,Yes,2087955
+6,M.Tech,Mumbai,Mid-size,Consulting,Consultant,Yes,953145
+7,M.Tech,Mumbai,MNC,IT,Analyst,No,1496430
+34,MBA,Delhi,Mid-size,Consulting,Software Engineer,No,2494914
+13,B.Tech,Kolkata,Startup,IT,Analyst,No,1152870
+16,B.Tech,Mumbai,MNC,Healthcare,Data Scientist,No,1666243
+35,MBA,Chennai,Startup,Manufacturing,Manager,No,2364596
+39,MBA,Delhi,Mid-size,Manufacturing,Software Engineer,Yes,2764644
+3,B.Tech,Mumbai,MNC,Education,Consultant,No,982351
+1,B.Tech,Chennai,MNC,Consulting,Data Scientist,Yes,894269
+5,PhD,Kolkata,Mid-size,IT,Analyst,No,1361496
+3,B.Tech,Pune,Mid-size,IT,Data Scientist,No,780273
+28,M.Tech,Kolkata,Mid-size,Finance,Software Engineer,No,2343588
+17,MBA,Mumbai,Startup,Education,Analyst,No,1588155
+25,M.Tech,Delhi,Mid-size,Finance,Manager,No,2120674
+33,MBA,Hyderabad,Mid-size,Finance,Data Scientist,Yes,2570307
+9,B.Tech,Mumbai,MNC,Finance,Software Engineer,No,1448843
+35,M.Tech,Hyderabad,MNC,Consulting,Consultant,No,2811047
+13,M.Tech,Chennai,MNC,Consulting,Analyst,No,1726720
+30,B.Tech,Pune,Startup,Healthcare,Data Scientist,Yes,1979357
+14,B.Tech,Bangalore,Mid-size,Healthcare,Data Scientist,No,1169063
+7,PhD,Kolkata,Startup,Finance,Manager,No,1367642
+13,M.Tech,Pune,Mid-size,Education,Manager,No,1340093
+22,B.Tech,Mumbai,Mid-size,IT,Consultant,No,1768671
+39,PhD,Hyderabad,MNC,Consulting,Consultant,No,3332992
+20,PhD,Kolkata,Mid-size,Education,Software Engineer,No,2059601
+15,M.Tech,Hyderabad,Startup,Manufacturing,Software Engineer,Yes,1235954
+17,MBA,Delhi,Startup,Consulting,Consultant,No,1477856
+23,B.Tech,Hyderabad,MNC,Consulting,Consultant,No,1852573
+25,B.Tech,Delhi,Mid-size,Healthcare,Analyst,No,1735367
+24,MBA,Chennai,Startup,IT,Manager,No,1999608
+40,MBA,Kolkata,Startup,IT,Software Engineer,No,2760774
+28,MBA,Kolkata,MNC,Manufacturing,Manager,No,2423752
+14,B.Tech,Bangalore,Startup,Manufacturing,Manager,No,1055029
+0,MBA,Mumbai,MNC,Consulting,Consultant,Yes,1098757
+24,MBA,Delhi,MNC,Finance,Analyst,No,2480282
+6,PhD,Bangalore,Startup,Healthcare,Data Scientist,No,1201693
+8,MBA,Hyderabad,Startup,Healthcare,Analyst,Yes,1116739
+23,M.Tech,Hyderabad,MNC,Consulting,Analyst,No,2105961
+0,M.Tech,Bangalore,Mid-size,Education,Manager,No,726678
+7,B.Tech,Kolkata,Mid-size,Finance,Analyst,No,974532
+23,PhD,Hyderabad,MNC,Consulting,Software Engineer,No,2431994
+10,PhD,Chennai,MNC,Finance,Manager,No,1906133
+16,B.Tech,Chennai,MNC,Finance,Software Engineer,Yes,1661268
+7,B.Tech,Bangalore,MNC,Finance,Data Scientist,No,1369315
+34,M.Tech,Delhi,Mid-size,Consulting,Manager,No,2488456
+34,B.Tech,Delhi,Startup,Healthcare,Data Scientist,Yes,2031653
+32,PhD,Bangalore,MNC,Healthcare,Manager,No,3007729
+4,B.Tech,Delhi,Mid-size,Finance,Consultant,No,921024
+38,B.Tech,Kolkata,Mid-size,Education,Analyst,No,2453252
+40,M.Tech,Kolkata,MNC,IT,Consultant,No,3121829
+27,B.Tech,Delhi,Startup,Consulting,Data Scientist,No,1778377
+6,B.Tech,Chennai,Mid-size,IT,Analyst,No,801622
+8,MBA,Delhi,Startup,Education,Manager,No,1048756
+7,MBA,Kolkata,Mid-size,Consulting,Analyst,No,1090809
+11,B.Tech,Pune,Startup,Finance,Software Engineer,Yes,966725
+33,M.Tech,Mumbai,Startup,Healthcare,Analyst,No,2392468
+32,M.Tech,Hyderabad,Startup,IT,Software Engineer,Yes,2201226
+22,M.Tech,Pune,Mid-size,Manufacturing,Analyst,Yes,1731182
+23,B.Tech,Delhi,MNC,Manufacturing,Software Engineer,No,1879402
+36,M.Tech,Chennai,Mid-size,Education,Data Scientist,No,2404263
+34,PhD,Bangalore,MNC,Finance,Consultant,No,3227900
+39,M.Tech,Delhi,Mid-size,IT,Manager,No,2697924
+21,PhD,Chennai,Startup,Finance,Analyst,No,2074182
+26,B.Tech,Mumbai,MNC,IT,Consultant,No,2290124
+34,B.Tech,Delhi,Startup,Education,Manager,Yes,2092736
+0,M.Tech,Kolkata,MNC,Education,Manager,No,935737
+34,M.Tech,Bangalore,Startup,Manufacturing,Software Engineer,Yes,2251332
+36,MBA,Chennai,MNC,Finance,Data Scientist,No,3039563
+13,B.Tech,Chennai,Startup,Consulting,Data Scientist,Yes,1060445
+2,M.Tech,Chennai,MNC,Manufacturing,Consultant,No,1167469
+0,M.Tech,Mumbai,Mid-size,Finance,Data Scientist,Yes,828575
+4,MBA,Delhi,MNC,Manufacturing,Analyst,No,1301371
+25,B.Tech,Mumbai,Startup,Consulting,Data Scientist,No,1588709
+13,PhD,Hyderabad,Mid-size,Healthcare,Consultant,No,1792192
+38,M.Tech,Hyderabad,MNC,Healthcare,Data Scientist,Yes,2950322
+26,B.Tech,Delhi,Mid-size,Healthcare,Analyst,No,1771172
+8,MBA,Kolkata,Mid-size,Healthcare,Software Engineer,Yes,1111555
+14,MBA,Mumbai,Mid-size,IT,Consultant,No,1553276
+14,PhD,Bangalore,Mid-size,Healthcare,Software Engineer,Yes,1657492
+25,B.Tech,Chennai,Mid-size,Consulting,Software Engineer,Yes,1784074
+12,M.Tech,Chennai,Mid-size,Education,Software Engineer,Yes,1239599
+31,M.Tech,Delhi,MNC,Education,Manager,No,2605834
+38,PhD,Kolkata,Startup,IT,Manager,No,2811046
+31,B.Tech,Hyderabad,Startup,Healthcare,Software Engineer,Yes,1966021
+3,B.Tech,Hyderabad,MNC,Healthcare,Consultant,No,1059841
+29,B.Tech,Chennai,MNC,Healthcare,Analyst,No,2384374
+36,B.Tech,Delhi,Mid-size,Manufacturing,Analyst,No,2354222
+22,M.Tech,Mumbai,Mid-size,Finance,Data Scientist,No,2049319
+38,B.Tech,Hyderabad,Startup,Manufacturing,Consultant,No,2204853
+14,B.Tech,Mumbai,Startup,Finance,Manager,No,1270900
+28,MBA,Kolkata,Mid-size,Healthcare,Software Engineer,Yes,2252864
+35,PhD,Hyderabad,Mid-size,Healthcare,Data Scientist,Yes,2709129
+12,B.Tech,Hyderabad,Mid-size,Manufacturing,Analyst,No,1114130
+31,B.Tech,Pune,Startup,Manufacturing,Manager,No,2048370
+6,M.Tech,Hyderabad,MNC,Finance,Manager,No,1513059
+21,B.Tech,Bangalore,MNC,Education,Software Engineer,Yes,1846922
+27,B.Tech,Delhi,Mid-size,Finance,Analyst,No,2043184
+1,B.Tech,Delhi,Mid-size,Manufacturing,Consultant,No,571789
+5,B.Tech,Mumbai,Mid-size,Consulting,Manager,Yes,755130
+27,MBA,Kolkata,MNC,Manufacturing,Software Engineer,Yes,2476492
+27,B.Tech,Hyderabad,Mid-size,Consulting,Consultant,No,1788890
+19,MBA,Bangalore,Startup,IT,Analyst,No,1716017
+29,M.Tech,Mumbai,MNC,Manufacturing,Manager,Yes,2478376
+10,B.Tech,Pune,MNC,IT,Consultant,Yes,1413993
+27,B.Tech,Mumbai,MNC,Education,Consultant,Yes,2132596
